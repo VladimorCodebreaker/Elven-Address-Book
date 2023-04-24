@@ -23,6 +23,7 @@ Elven Address Book is a simple and user-friendly android application that allows
 🥮 Wait for Android Studio to sync the project and download the necessary dependencies.<br>
 🥮 Connect your Android device or start an emulator.<br>
 🥮 Click the "Run" button in Android Studio to build and install the app on your device or emulator.
+🥮 If the "Run" button does not appear, Clean, Rebuild, and Sync Project with Gradle files.
 
 ## 🍹 Usage
 
